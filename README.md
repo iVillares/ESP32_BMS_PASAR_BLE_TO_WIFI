@@ -24,5 +24,11 @@ https://github.com/jblance/mpp-solar
 
 El tipo de informacion de celdas es el jk02 ya que ha sido de vital importacia el disponer de dicha información.
 
+![IMG_6611](https://user-images.githubusercontent.com/67223906/139583861-0e8e435f-061e-4fbb-ad72-fddf9bb97183.jpg)
+
+Video Funcionando.
+
+https://user-images.githubusercontent.com/67223906/139584143-389e5ae4-04e6-4d87-9a6d-f0689508247d.mp4
+
 
 
