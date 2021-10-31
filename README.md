@@ -30,5 +30,4 @@ Video Funcionando.
 
 https://user-images.githubusercontent.com/67223906/139584143-389e5ae4-04e6-4d87-9a6d-f0689508247d.mp4
 
-
-
+El funcionamiento es muy similar al que se realiza por la app oficial Bluetooth pero con esto se puede consultarlo por wifi.
