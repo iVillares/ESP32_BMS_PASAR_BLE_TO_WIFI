@@ -1,4 +1,4 @@
-# ESP32_BMS_PASAR_BLE_TO_WIFI
+# ESP32_BMS_PASAR_BLE_TO_WIFI - Version beta
 Convertir los datos de Bluetooth de las BMS compatibles a servidor WIFI
 BMS compatibles:
 JK-B2A24S1
