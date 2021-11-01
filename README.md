@@ -24,6 +24,10 @@ https://github.com/jblance/mpp-solar
 
 El tipo de informacion de celdas es el jk02 ya que ha sido de vital importacia el disponer de dicha información.
 
+Esta solución se compone de un :
+Servidor Bluetooth - se indica las direcciones mac de las BMSs
+Servidor WIFI -  Hay que identificar los datos de la WiFi como SSID y Password así como los datos de seguiridad para la conexión con el servidor que son el usuario y password.
+
 ![IMG_6611](https://user-images.githubusercontent.com/67223906/139583861-0e8e435f-061e-4fbb-ad72-fddf9bb97183.jpg)
 
 Video Funcionando.
